@@ -51,7 +51,7 @@ src/metrics.py      MSE, PSNR, SSIM, BER, NC, entropy
 tests/test_core.py  unit tests
 images/             test images (scikit-image Cameraman and Astronaut, 256x256)
 results/            figures and results.json written by main.py
-report/             project report (Word and PDF)
+report/             project report (Word and PDF) and build_report.py, which regenerates it from results/results.json
 ```
 
 ## Data
